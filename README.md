@@ -10,12 +10,14 @@ A Java-based journal application to help users record and manage personal journa
 
 ## Project Structure
 
+undefined
 journalApp12/
 ├── src/ # Source code
 ├── .mvn/ # Maven wrapper files
 ├── .gitignore # Git ignore rules
 ├── mvnw / mvnw.cmd # Maven wrapper scripts
 ├── pom.xml # Maven project configuration
+undefined
 
 
 ## Prerequisites
