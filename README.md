@@ -8,17 +8,6 @@ A Java-based journal application to help users record and manage personal journa
 - Organized project structure using Maven
 - Ready for customization and extension
 
-## Project Structure
-
-undefined
-journalApp12/
-├── src/ # Source code
-├── .mvn/ # Maven wrapper files
-├── .gitignore # Git ignore rules
-├── mvnw / mvnw.cmd # Maven wrapper scripts
-├── pom.xml # Maven project configuration
-undefined
-
 
 ## Prerequisites
 
@@ -48,7 +37,3 @@ Modify the source code under the `src/` directory as needed.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
