@@ -1,4 +1,4 @@
-# journalApp12
+# journalApp
 
 A Java-based journal application to help users record and manage personal journal entries.
 
